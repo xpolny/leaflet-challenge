@@ -107,7 +107,4 @@ d3.json(GeoJSONUrl).then(function(data){
         return div;
     };
     legend.addTo(myMap);
-    
-    // Legend source1: https://leafletjs.com/examples/choropleth/
-    // Legend source2: https://codepen.io/haakseth/pen/KQbjdO
 });
