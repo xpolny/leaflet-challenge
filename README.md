@@ -11,7 +11,7 @@ Create a map using Leaflet that plots all of the earthquakes from your data set 
 This visualzation includes
    * Data markers which indicate the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes appear larger and darker in color
 
-   * A legend that will provide context for your map data
+   * A legend that provides context for your map data
 
    * Popups that show additional information about the earthquake when a marker is clicked.
 
