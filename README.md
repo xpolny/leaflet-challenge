@@ -1,4 +1,4 @@
-# Leaflet-Challenge
+# Leaflet Homework: Visualizing Data with Leaflet
 
 ## Level-1: Basic Visualization
 
