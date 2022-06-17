@@ -3,7 +3,7 @@
 ## Level 1: Basic Visualization
 
 ### Dataset
-Earthquake data from the last 7 days is being used for these visualizations. The data is being implemented as a JSON from the [USGS](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php), which is updated every 5 minutes.
+Earthquake data from the last 7 days is being used for these visualizations. The data is being brought in as a JSON from the [USGS](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php), which is updated every 5 minutes.
 
 ### Visualization
 Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
