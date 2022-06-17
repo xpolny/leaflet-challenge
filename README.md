@@ -1,23 +1,23 @@
 # Leaflet Homework: Visualizing Data with Leaflet
 
-## Level-1: Basic Visualization
+## Level_1: Basic Visualization
 
-### DataSet
-Earthquake data for the last 7 days is used for the visualization. The data is taken as a JSON format from the [USGS](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php), which is updated every 5 minutes.
+### Dataset
+Earthquake data from the last 7 days is being used for these visualizations. The data is being implemented as a JSON from the [USGS](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php), which is updated every 5 minutes.
 
 ### Visualization
-Creating a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
+Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
 
-The visualzation includes
-   * Data markers which reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes appear larger and darker in color.
+This visualzation includes
+   * Data markers which indicate the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes appear larger and darker in color
 
-   * Popups that provide additional information about the earthquake when a marker is clicked.
+   * A legend that will provide context for your map data
 
-   * A legend that will provide context for your map data.
+   * Popups that show additional information about the earthquake when a marker is clicked.
 
 ![Step-1](Images/Leaflet_Step_1.png)
 
-The Level-1 page can be accessed [here](https://jua91.github.io/Leaflet-Challenge/Leaflet-Step-1/index.html)
+The Level-1 page can be accessed [here](https://xpolny.github.io/Leaflet-Challenge/Leaflet-Step-1/index.html)
 
 
 ## Level-2: Advanced Visualization
@@ -28,9 +28,9 @@ The Level-1 page can be accessed [here](https://jua91.github.io/Leaflet-Challeng
 ### Visualization
 
 * A base map object with 4 map layers to choose from was added 
-* An overlay map which contains plates layer and geoJSON layer was also added.
-* Layer controls to our map was created.
+* Layer controls were added
+* An overlay map that shows plates layer and geoJSON layer were also added
 
 ![Step-2](Images/Leaflet_Step_2.png)
 
-The Level-2 page can be accessed [here](https://jua91.github.io/Leaflet-Challenge/Leaflet-Step-2/index.html)
+The Level-2 page can be accessed [here](https://xpolny.github.io/Leaflet-Challenge/Leaflet-Step-2/index.html)
