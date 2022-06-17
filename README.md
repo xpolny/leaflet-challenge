@@ -17,7 +17,7 @@ This visualzation includes
 
 ![Step-1](Images/Leaflet_Step_1.png)
 
-Access the Level 1 page [HERE](https://xpolny.github.io/leaflet-lhallenge/Leaflet-Step-1/index.html).
+Access the Level 1 page [HERE](https://xpolny.github.io/leaflet-challenge/Leaflet-Step-1/index.html).
 
 
 ## Level 2: Advanced Visualization
