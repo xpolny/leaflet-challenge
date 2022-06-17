@@ -11,13 +11,13 @@ Create a map using Leaflet that plots all of the earthquakes from your data set 
 This visualzation includes
    * Data markers which indicate the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes appear larger and darker in color
 
-   * A legend that provides context for your map data
+   * A legend that provides context for map data
 
    * Popups that show additional information about the earthquake when a marker is clicked.
 
 ![Step-1](Images/Leaflet_Step_1.png)
 
-Access the Level 1 page [here](https://xpolny.github.io/Leaflet-Challenge/Leaflet-Step-1/index.html)
+Access the Level 1 page [HERE](https://xpolny.github.io/Leaflet-Challenge/Leaflet-Step-1/index.html).
 
 
 ## Level 2: Advanced Visualization
@@ -33,4 +33,4 @@ Access the Level 1 page [here](https://xpolny.github.io/Leaflet-Challenge/Leafle
 
 ![Step-2](Images/Leaflet_Step_2.png)
 
-Access the Level 2 page [here](https://xpolny.github.io/Leaflet-Challenge/Leaflet-Step-2/index.html)
+Access the Level 2 page [HERE](https://xpolny.github.io/Leaflet-Challenge/Leaflet-Step-2/index.html).
