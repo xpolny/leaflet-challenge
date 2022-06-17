@@ -1,6 +1,6 @@
 # Leaflet Homework: Visualizing Data with Leaflet
 
-## Level_1: Basic Visualization
+## Level 1: Basic Visualization
 
 ### Dataset
 Earthquake data from the last 7 days is being used for these visualizations. The data is being implemented as a JSON from the [USGS](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php), which is updated every 5 minutes.
